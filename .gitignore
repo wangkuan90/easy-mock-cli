@@ -58,6 +58,9 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# Hbuilder file
+.project
+
 # dotenv environment variables file
 .env
 
